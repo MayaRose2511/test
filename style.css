@@ -1,13 +1,13 @@
 .splashscreen {background-image: url(https://coding-days.com/wp-content/uploads/2017/01/homevp1.png);
   height: 100vh;
-  height: 50vh;
+  height: 40vh;
   background: lightblue;
   display: flex;
   justify-content:center;
   align-items: center;
 }
 .safe_elements article {
-height: 90vh;
+height: 40vh;
 background: lightgreen;
 box-sizing: border-box;
 display: flex;
