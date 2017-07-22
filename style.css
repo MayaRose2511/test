@@ -6,12 +6,11 @@
   justify-content:center;
   align-items: center;
 }
-.safe_elements article {
+.safe_elements {
 height: 50vh;
-float: center;
+background: lightpink;
 padding: 40px;
 box-sizing: border-box;
-background: lightpink;
 display: flex;
 justify-content:center;
 align-items: center;
